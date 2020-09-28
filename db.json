@@ -1,12 +1,18 @@
 {
-  "aaa":[
+  "channels":[
     {
-    "Id_": 1,
-    "Title_": "Hello"
+      "Name_": "Everything"
     },
     {
-    "Id_": 2,
-    "Title_": "World"
+      "Name_": "Study"
+    },
+    {
+      "Name_": "Work"
+    },
+    {
+      "Name_": "Board Games"
+    },
+    {
+      "Name_": "Movies"
     }
-  ]
 }
