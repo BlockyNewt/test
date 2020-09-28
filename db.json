@@ -1,5 +1,6 @@
 {
-  "channels":[
+  "channels":
+  [
     {
       "Name_": "Everything"
     },
@@ -14,6 +15,64 @@
     },
     {
       "Name_": "Movies"
+    },
+    {
+      "Name_": "AB"
+    },
+    {
+      "Name_": "BC"
+    },
+    {
+      "Name_": "CD"
+    },
+    {
+      "Name_": "DE"
+    },
+    {
+      "Name_": "EF"
+    },
+    {
+      "Name_": "FG"
+    },
+    {
+      "Name_": "GH"
+    },
+    {
+      "Name_": "HI"
+    },
+    {
+      "Name_": "IJ"
+    },
+    {
+      "Name_": "JK"
+    },
+    {
+      "Name_": "KL"
+    },
+    {
+      "Name_": "LM"
+    },
+    {
+      "Name_": "MN"
+    },
+    {
+      "Name_": "NO"
+    },
+    {
+      "Name_": "OP"
+    },
+    {
+      "Name_": "QR"
     }
-    ]
+  ]
+  
+  "users": 
+  [
+    {
+      "First_Name_": "Tommy",
+      "Last_Name_": "Harbison",
+      "Username_": "username",
+      "Password_": "password"
+    }
+  ]
 }
