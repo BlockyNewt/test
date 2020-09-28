@@ -1,7 +1,13 @@
 {
   "posts":
-  {
+  [
+    {
     "Id_": 1,
     "Title_": "Hello"
-  }
+    }
+    {
+    "Id_": 2,
+    "Title_": "World"
+    }
+  ]
 }
