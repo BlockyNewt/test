@@ -64,5 +64,14 @@
     {
       "Name_": "QR"
     }
+  ],
+  "users":
+  [
+    {
+      "First_Name_": "Tommy",
+      "Last_Name_": "Harbison",
+      "Username_": "user",
+      "Password_": "pass"
+    }
   ]
 }
