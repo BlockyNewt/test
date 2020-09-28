@@ -1,6 +1,5 @@
 {
-  "posts":
-  [
+  "posts":[
     {
     "Id_": 1,
     "Title_": "Hello"
