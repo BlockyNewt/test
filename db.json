@@ -1,10 +1,4 @@
 {
-  "posts": 
-    {
       "Id_": 1,
       "Title_": "hello"
-    },
-  "profile": {
-    "name": "typicode"
-  }
 }
